@@ -1,0 +1,29 @@
+.container__image {
+    width: 10em;
+    margin: auto;
+    padding-top: 3em;
+    padding-bottom: 2em;
+    padding-left: 0;
+}
+
+.container__rating {
+    text-align: center;
+    margin: auto;
+    color: var(--orange);
+    background-color: var(--gray);
+    border-radius: 30px;
+    padding: 0.5em;
+    width: 40%;
+}
+
+.container__title {
+    text-align: center;
+    padding-top: 0.5em;
+}
+
+.container__text {
+    margin: auto;
+    text-align: center;
+    color: var(--medium-gray);
+    width: 75%;
+}
