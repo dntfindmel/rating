@@ -31,8 +31,13 @@ function select(event) {
 
     button.classList.toggle('active')
     console.log(formValue)
+
+    window.localStorage.setItem('containForm', formValue);
+
 }
 
 for(var rating of ratings){
     rating.addEventListener('click', select)
 }
+
+
