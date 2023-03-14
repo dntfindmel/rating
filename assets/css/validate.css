@@ -1,8 +1,8 @@
 .container__image {
-    width: 10em;
+    width: 10rem;
     margin: auto;
-    padding-top: 3em;
-    padding-bottom: 2em;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
     padding-left: 0;
 }
 
@@ -12,18 +12,18 @@
     color: var(--orange);
     background-color: var(--gray);
     border-radius: 30px;
-    padding: 0.5em;
-    width: 40%;
+    padding: 0.5rem;
+    width: 15rem;
 }
 
 .container__title {
     text-align: center;
-    padding-top: 0.5em;
+    padding-top: 0.5rem;
 }
 
 .container__text {
     margin: auto;
     text-align: center;
     color: var(--medium-gray);
-    width: 75%;
+    width: 25rem;
 }
